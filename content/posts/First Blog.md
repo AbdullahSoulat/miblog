@@ -26,3 +26,5 @@ and this is another image
 !![Image Description](/images/gruv-understand.png)
 
 okay now this is a wallpaper and not just another random image
+
+**This is something new right here**
